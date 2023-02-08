@@ -47,6 +47,3 @@ if cpf_gerado_pelo_calculo == cpf_enviado_usuario:
     print(f'CPF: {cpf_gerado_pelo_calculo} é valido')
 else:
     print(f'{cpf_gerado_pelo_calculo} CPF inválido')
-    
-
-help(sys)
